@@ -4,10 +4,10 @@
 This project is created on 21-March-2021.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project allows you to calculate statistics and analyze data based on your chosen dataset. Have fun.
 
 ### Files used
 This project uses: bikeshare.py, chicago.csv, new_york_city.csv and washington.csv
