@@ -13,4 +13,4 @@ Describe what your project is about and what it does
 This project uses: bikeshare.py, chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project credited to https://github.com/udacity/pdsnd_github.git and www.udacity.com.
