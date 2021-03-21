@@ -1,3 +1,4 @@
+# This is a interactive project to explore US Bikeshare data
 import time
 import pandas as pd
 import numpy as np
