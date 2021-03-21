@@ -10,7 +10,7 @@ Explore US Bikeshare Data
 This project allows you to calculate statistics and analyze data based on your chosen dataset. Have fun.
 
 ### Files used
-This project uses: bikeshare.py, chicago.csv, new_york_city.csv and washington.csv
+This project uses: bikeshare.py with dataset chicago.csv, new_york_city.csv and washington.csv.
 
 ### Credits
 This project credited to https://github.com/udacity/pdsnd_github.git and www.udacity.com.
